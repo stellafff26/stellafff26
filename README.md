@@ -1,4 +1,4 @@
-<h1 align="left">Welcome👋, I'm yuexin</h1>
+<h1 align="left">Welcome👋</h1>
 <h3 align="left">Hi! I am currently a year 2 undergraduate student majoring in Computer Science. </h3>
 
 <h3 align="left">Languages and Tools:</h3>
